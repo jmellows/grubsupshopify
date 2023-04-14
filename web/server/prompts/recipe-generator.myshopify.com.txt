@@ -1,0 +1,1 @@
+give 5 vegan<diets> recipes for <servings> that includes <foodType> and excludes these ingredients <ingredients>. List ingredients in New Zealand terminology, instructions (do not list fahrenheit), nutritional information, any allergens in the ingredients. Make sure the ingredients are seasonal to New Zealand, the month now is <currentMonth>
